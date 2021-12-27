@@ -23,6 +23,6 @@ Este es un pequeño mini curso semidirigido de análisis de diversidad biológic
 * R (preferiblemente integrado a RStudio)
 * Conocimientos básicos de programación en R (preferiblemente intermedios o avanzados)
 
-## Authors
+## Autor
 
 * Juan D. Vásquez-Restrepo ([@microteiido](https://twitter.com/microteiido))
